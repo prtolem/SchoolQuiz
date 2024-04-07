@@ -1,0 +1,4 @@
+aiogram~=3.4.1
+SQLAlchemy~=2.0.28
+toml~=0.10.2
+alembic~=1.13.1
